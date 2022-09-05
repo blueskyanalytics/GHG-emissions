@@ -1,4 +1,4 @@
-<img src="https://blueskyhq.cdn.prismic.io/blueskyhq/4cc1c696-9709-4c30-9b45-bdae0361f961_logo.svg"/>
+<img src="https://blueskyhq.cdn.prismic.io/blueskyhq/4cc1c696-9709-4c30-9b45-bdae0361f961_logo.svg"  style="width:400px" alt="BSA Logo"/>
 
 # GHG-emissions
 
